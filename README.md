@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Arnold Mosha  
 
-<!--
-**Arnoldmosha60/Arnoldmosha60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | 🌍 Dar es Salaam, Tanzania  
+📧 [arnoldmosha60@gmail.com](mailto:arnoldmosha60@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/arnold-mosha-102631323) | 🐙 [GitHub](https://github.com/Arnoldmosha60)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me  
+I’m a passionate Software Developer with a strong background in **full-stack development**, **digital health systems**, and **data-driven solutions**.  
+Currently working at **UCSF Global Programs Tanzania**, building scalable and impactful systems.  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:** Python | JavaScript/TypeScript | Java | C# | Dart | PHP | SQL  
+**Frameworks:** Django | React | Node.js | .NET Core | Flutter | Spring Boot | Laravel  
+**Databases:** PostgreSQL | MySQL | MongoDB | MSSQL | SQLite  
+**Tools:** GitHub | Bitbucket | Docker | Power BI  
+
+---
+
+## 📊 GitHub Stats  
+![Arnold's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnoldmosha60&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnoldmosha60&layout=compact&theme=tokyonight)  
+
+---
+
+⭐ *Building impactful software, one line of code at a time.* 🚀
