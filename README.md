@@ -40,10 +40,4 @@ Currently working at **UCSF Global Programs Tanzania**, building scalable and im
 
 ---
 
-## 🐍 Fun Extras  
-
-![snake gif](https://github.com/Arnoldmosha60/Arnoldmosha60/blob/output/github-contribution-grid-snake.svg)  
-
----
-
 ⭐ *Building impactful software, one line of code at a time.* 🚀
