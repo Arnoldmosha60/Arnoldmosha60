@@ -19,9 +19,30 @@ Currently working at **UCSF Global Programs Tanzania**, building scalable and im
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Overview  
+
 ![Arnold's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnoldmosha60&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnoldmosha60&layout=compact&theme=tokyonight)  
+
+---
+
+## 🔥 Streak & Contributions  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Arnoldmosha60&theme=tokyonight&hide_border=true)  
+
+![Arnold's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arnoldmosha60&theme=tokyo-night)  
+
+---
+
+## 🏆 Achievements  
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Arnoldmosha60&theme=tokyonight&row=1&column=6)  
+
+---
+
+## 🐍 Fun Extras  
+
+![snake gif](https://github.com/Arnoldmosha60/Arnoldmosha60/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
